@@ -7,7 +7,7 @@ import CreateIcon from "@material-ui/icons/Create";
 import PersonAddIcon from "@material-ui/icons/PersonAdd";
 import AddClient from "../Invoice/AddClient";
 import AddProduct from '../Invoice/AddProduct';
-import AddCircleIcon from '@mui/icons-material/AddCircle';
+//import AddCircleIcon from '@mui/icons-material/AddCircle';
 
 const FabButton = () => {
   const location = useLocation();
@@ -44,7 +44,7 @@ const FabButton = () => {
                 text="New Product"
                 onClick={() => setOpen2((prev) => !prev)}
               >
-                <AddCircleIcon />
+                <PersonAddIcon />
             </Action>
 
       </Fab>
