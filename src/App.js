@@ -9,7 +9,7 @@ import ProductList from "./components/Products/ProductList";
 import NavBar from "./components/NavBar/NavBar";
 import Login from "./components/Login/Login";
 import Dashboard from "./components/Dashboard/Dashboard";
-//import Footer from "./components/Footer/Footer";
+import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import Settings from "./components/Settings/Settings";
 import Forgot from "./components/Password/Forgot";
@@ -39,6 +39,7 @@ function App() {
             <Route path="/reset/:token" exact component={Reset} />
             <Redirect exact from="/new-invoice" to="/invoice" />
           </Switch>
+          <Footer />
         </SnackbarProvider>
       </BrowserRouter>
     </div>
