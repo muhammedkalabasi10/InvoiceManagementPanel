@@ -1,0 +1,625 @@
+[
+  {
+    "coun€Code": 1,
+    "label": "İstanbul",
+    "latitude": "41.0053",
+    "longitude": "28.9770",
+    "value": "€",
+    "region": "Marmara"
+  },
+  {
+    "coun€Code": 2,
+    "label": "Adıyaman",
+    "latitude": "37.7648",
+    "longitude": "38.2786",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 3,
+    "label": "Afyonkarahisar",
+    "latitude": "38.7507",
+    "longitude": "30.5567",
+    "value": "€",    "region": "Ege"
+  },
+  {
+    "coun€Code": 4,
+    "label": "Ağrı",
+    "latitude": "39.7191",
+    "longitude": "43.0503",
+    "value": "€",    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 5,
+    "label": "Amasya",
+    "latitude": "40.6499",
+    "longitude": "35.8353",
+    "value": "€",    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 6,
+    "label": "Ankara",
+    "latitude": "39.9208",
+    "longitude": "32.8541",
+    "value": "€",    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 7,
+    "label": "Antalya",
+    "latitude": "36.8841",
+    "longitude": "30.7056",
+    "value": "€",    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 8,
+    "label": "Artvin",
+    "latitude": "41.1828",
+    "longitude": "41.8183",
+    "value": "€",    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 9,
+    "label": "Aydın",
+    "latitude": "37.8560",
+    "longitude": "27.8416",
+    "value": "€",    "region": "Ege"
+  },
+  {
+    "coun€Code": 10,
+    "label": "Balıkesir",
+    "latitude": "39.6484",
+    "longitude": "27.8826",
+    "value": "€",    "region": "Ege"
+  },
+  {
+    "coun€Code": 11,
+    "label": "Bilecik",
+    "latitude": "40.0567",
+    "longitude": "30.0665",
+    "value": "€",    "region": "Marmara"
+  },
+  {
+    "coun€Code": 12,
+    "label": "Bingöl",
+    "latitude": "39.0626",
+    "longitude": "40.7696",
+    "value": "€",    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 13,
+    "label": "Bitlis",
+    "latitude": "38.3938",
+    "longitude": "42.1232",
+    "value": "€",    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 14,
+    "label": "Bolu",
+    "latitude": "40.5760",
+    "longitude": "31.5788",
+    "value": "€",    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 15,
+    "label": "Burdur",
+    "latitude": "37.4613",
+    "longitude": "30.0665",
+    "value": "€",    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 16,
+    "label": "Bursa",
+    "latitude": "40.2669",
+    "longitude": "29.0634",
+    "value": "€",    "region": "Marmara"
+  },
+  {
+    "coun€Code": 17,
+    "label": "Çanakkale",
+    "latitude": "40.1553",
+    "longitude": "26.4142",
+    "value": "€",    "region": "Marmara"
+  },
+  {
+    "coun€Code": 18,
+    "label": "Çankırı",
+    "latitude": "40.6013",
+    "longitude": "33.6134",
+    "value": "€",    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 19,
+    "label": "Çorum",
+    "latitude": "40.5506",
+    "longitude": "34.9556",
+    "value": "€",    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 20,
+    "label": "Denizli",
+    "latitude": "37.7765",
+    "longitude": "29.0864",
+    "value": "€",
+    "region": "Ege"
+  },
+  {
+    "coun€Code": 21,
+    "label": "Diyarbakır",
+    "latitude": "37.9144",
+    "longitude": "40.2306",
+    "value": "€",    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 22,
+    "label": "Edirne",
+    "latitude": "41.6818",
+    "longitude": "26.5623",
+    "value": "€",    "region": "Marmara"
+  },
+  {
+    "coun€Code": 23,
+    "label": "Elâzığ",
+    "latitude": "38.6810",
+    "longitude": "39.2264",
+    "value": "€",    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 24,
+    "label": "Erzincan",
+    "latitude": "39.7500",
+    "longitude": "39.5000",
+    "value": "€",    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 25,
+    "label": "Erzurum",
+    "latitude": "39.9000",
+    "longitude": "41.2700",
+    "value": "€",    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 26,
+    "label": "Eskişehir",
+    "latitude": "39.7767",
+    "longitude": "30.5206",
+    "value": "€",    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 27,
+    "label": "Gaziantep",
+    "latitude": "37.0662",
+    "longitude": "37.3833",
+    "value": "€",    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 28,
+    "label": "Giresun",
+    "latitude": "40.9128",
+    "longitude": "38.3895",
+    "value": "€",    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 29,
+    "label": "Gümüşhane",
+    "latitude": "40.4386",
+    "longitude": "39.5086",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 30,
+    "label": "Hakkâri",
+    "latitude": "37.5833",
+    "longitude": "43.7333",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 31,
+    "label": "Hatay",
+    "latitude": "36.4018",
+    "longitude": "36.3498",
+    "value": "€",
+    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 32,
+    "label": "Isparta",
+    "latitude": "37.7648",
+    "longitude": "30.5566",
+    "value": "€",
+    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 33,
+    "label": "Mersin",
+    "latitude": "36.8000",
+    "longitude": "34.6333",
+    "value": "€",
+    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 34,
+    "label": "Adana",
+    "value": "€",
+    "latitude": "37.0000",
+    "longitude": "35.3213",
+    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 35,
+    "label": "İzmir",
+    "latitude": "38.4189",
+    "longitude": "27.1287",
+    "value": "€",
+    "region": "Ege"
+  },
+  {
+    "coun€Code": 36,
+    "label": "Kars",
+    "latitude": "40.6167",
+    "longitude": "43.1000",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 37,
+    "label": "Kastamonu",
+    "latitude": "41.3887",
+    "longitude": "33.7827",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 38,
+    "label": "Kayseri",
+    "latitude": "38.7312",
+    "longitude": "35.4787",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 39,
+    "label": "Kırklareli",
+    "latitude": "41.7333",
+    "longitude": "27.2167",
+    "value": "€",
+    "region": "Marmara"
+  },
+  {
+    "coun€Code": 40,
+    "label": "Kırşehir",
+    "latitude": "39.1425",
+    "longitude": "34.1709",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 41,
+    "label": "Kocaeli",
+    "latitude": "40.8533",
+    "longitude": "29.8815",
+    "value": "€",
+    "region": "Marmara"
+  },
+  {
+    "coun€Code": 42,
+    "label": "Konya",
+    "latitude": "37.8667",
+    "longitude": "32.4833",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 43,
+    "label": "Kütahya",
+    "latitude": "39.4167",
+    "longitude": "29.9833",
+    "value": "€",
+    "region": "Ege"
+  },
+  {
+    "coun€Code": 44,
+    "label": "Malatya",
+    "latitude": "38.3552",
+    "longitude": "38.3095",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 45,
+    "label": "Manisa",
+    "latitude": "38.6191",
+    "longitude": "27.4289",
+    "value": "€",
+    "region": "Ege"
+  },
+  {
+    "coun€Code": 46,
+    "label": "Kahramanmaraş",
+    "latitude": "37.5858",
+    "longitude": "36.9371",
+    "value": "€",
+    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 47,
+    "label": "Mardin",
+    "latitude": "37.3212",
+    "longitude": "40.7245",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 48,
+    "label": "Muğla",
+    "latitude": "37.2153",
+    "longitude": "28.3636",
+    "value": "€",
+    "region": "Ege"
+  },
+  {
+    "coun€Code": 49,
+    "label": "Muş",
+    "latitude": "38.9462",
+    "longitude": "41.7539",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 50,
+    "label": "Nevşehir",
+    "latitude": "38.6939",
+    "longitude": "34.6857",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 51,
+    "label": "Niğde",
+    "latitude": "37.9667",
+    "longitude": "34.6833",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 52,
+    "label": "Ordu",
+    "latitude": "40.9839",
+    "longitude": "37.8764",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 53,
+    "label": "Rize",
+    "latitude": "41.0201",
+    "longitude": "40.5234",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 54,
+    "label": "Sakarya",
+    "latitude": "40.6940",
+    "longitude": "30.4358",
+    "value": "€",
+    "region": "Marmara"
+  },
+  {
+    "coun€Code": 55,
+    "label": "Samsun",
+    "latitude": "41.2928",
+    "longitude": "36.3313",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 56,
+    "label": "Siirt",
+    "latitude": "37.9333",
+    "longitude": "41.9500",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 57,
+    "label": "Sinop",
+    "latitude": "42.0231",
+    "longitude": "35.1531",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 58,
+    "label": "Sivas",
+    "latitude": "39.7477",
+    "longitude": "37.0179",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 59,
+    "label": "Tekirdağ",
+    "latitude": "40.9833",
+    "longitude": "27.5167",
+    "value": "€",
+    "region": "Marmara"
+  },
+  {
+    "coun€Code": 60,
+    "label": "Tokat",
+    "latitude": "40.3167",
+    "longitude": "36.5500",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 61,
+    "label": "Trabzon",
+    "latitude": "41.0015",
+    "longitude": "39.7178",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 62,
+    "label": "Tunceli",
+    "latitude": "39.3074",
+    "longitude": "39.4388",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 63,
+    "label": "Şanlıurfa",
+    "latitude": "37.1591",
+    "longitude": "38.7969",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 64,
+    "label": "Uşak",
+    "latitude": "38.6823",
+    "longitude": "29.4082",
+    "value": "€",
+    "region": "Ege"
+  },
+  {
+    "coun€Code": 65,
+    "label": "Van",
+    "latitude": "38.4891",
+    "longitude": "43.4089",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 66,
+    "label": "Yozgat",
+    "latitude": "39.8181",
+    "longitude": "34.8147",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 67,
+    "label": "Zonguldak",
+    "latitude": "41.4564",
+    "longitude": "31.7987",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 68,
+    "label": "Aksaray",
+    "latitude": "38.3687",
+    "longitude": "34.0370",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 69,
+    "label": "Bayburt",
+    "latitude": "40.2552",
+    "longitude": "40.2249",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 70,
+    "label": "Karaman",
+    "latitude": "37.1759",
+    "longitude": "33.2287",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 71,
+    "label": "Kırıkkale",
+    "latitude": "39.8468",
+    "longitude": "33.5153",
+    "value": "€",
+    "region": "İç Anadolu"
+  },
+  {
+    "coun€Code": 72,
+    "label": "Batman",
+    "latitude": "37.8812",
+    "longitude": "41.1351",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 73,
+    "label": "Şırnak",
+    "latitude": "37.4187",
+    "longitude": "42.4918",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 74,
+    "label": "Bartın",
+    "latitude": "41.5811",
+    "longitude": "32.4610",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 75,
+    "label": "Ardahan",
+    "latitude": "41.1105",
+    "longitude": "42.7022",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 76,
+    "label": "Iğdır",
+    "latitude": "39.8880",
+    "longitude": "44.0048",
+    "value": "€",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "coun€Code": 77,
+    "label": "Yalova",
+    "latitude": "40.6500",
+    "longitude": "29.2667",
+    "value": "€",
+    "region": "Marmara"
+  },
+  {
+    "coun€Code": 78,
+    "label": "Karabük",
+    "latitude": "41.2061",
+    "longitude": "32.6204",
+    "value": "€",
+    "region": "Karadeniz"
+  },
+  {
+    "coun€Code": 79,
+    "label": "Kilis",
+    "latitude": "36.7184",
+    "longitude": "37.1212",
+    "value": "€",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "coun€Code": 80,
+    "label": "Osmaniye",
+    "latitude": "37.2130",
+    "longitude": "36.1763",
+    "value": "€",
+    "region": "Akdeniz"
+  },
+  {
+    "coun€Code": 81,
+    "label": "Düzce",
+    "latitude": "40.8438",
+    "longitude": "31.1565",
+    "value": "€",
+    "region": "Karadeniz"
+  }
+]
