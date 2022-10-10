@@ -115,7 +115,7 @@ const InvoiceDetails = () => {
   const createAndDownloadPdf = () => {
     setDownloadStatus("loading");
     axios
-      .post(`${process.env.REACT_APP_API}/create-pdf`, {
+      .post(`https://invoice-management-panel.herokuapp.com/create-pdf`, {
         name: invoice.client.name,
         address: invoice.client.address,
         phone: invoice.client.phone,
@@ -135,7 +135,7 @@ const InvoiceDetails = () => {
         company: company,
       })
       .then(() =>
-        axios.get(`${process.env.REACT_APP_API}/fetch-pdf`, {
+        axios.get(`https://invoice-management-panel.herokuapp.com/fetch-pdf`, {
           responseType: "blob",
         })
       )
@@ -152,7 +152,7 @@ const InvoiceDetails = () => {
     e.preventDefault();
     setSendStatus("loading");
     axios
-      .post(`${process.env.REACT_APP_API}/send-pdf`, {
+      .post(`https://invoice-management-panel.herokuapp.com/send-pdf`, {
         name: invoice.client.name,
         address: invoice.client.address,
         phone: invoice.client.phone,
@@ -169,7 +169,7 @@ const InvoiceDetails = () => {
         status: invoice.status,
         totalAmountReceived: toCommas(totalAmountReceived),
         balanceDue: toCommas(total - totalAmountReceived),
-        link: `${process.env.REACT_APP_URL}/invoice/${invoice._id}`,
+        link: `https://invoice-management-panel.herokuapp.com/invoice/${invoice._id}`,
         company: company,
       })
       // .then(() => console.log("invoice sent successfully"))
