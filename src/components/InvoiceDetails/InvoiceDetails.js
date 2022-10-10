@@ -210,17 +210,17 @@ const InvoiceDetails = () => {
         user?.result?._id || user?.result?.googleId
       ) && (
         <div className={styles.buttons}>
-          <ProgressButton
+          {/*<ProgressButton
             onClick={sendPdf}
             state={sendStatus}
             onSuccess={() => openSnackbar("Invoice sent successfully")}
           >
             Send to Customer
-          </ProgressButton>
+      </ProgressButton>
 
           <ProgressButton onClick={createAndDownloadPdf} state={downloadStatus}>
             Download PDF
-          </ProgressButton>
+          </ProgressButton>*/}
 
           <button
             className={styles.btn}
