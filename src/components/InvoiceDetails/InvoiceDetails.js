@@ -171,9 +171,7 @@ const InvoiceDetails = () => {
         balanceDue: toCommas(total - totalAmountReceived),
         link: `https://invoice-management-panel.herokuapp.com/invoice/${invoice._id}`,
         company: company,
-      })
-      // .then(() => console.log("invoice sent successfully"))
-      .then(() => setSendStatus("success"))
+      }).then((res) => console.log(res)).then(() => setSendStatus("success"))
       .catch((error) => {
         console.log(error);
         setSendStatus("error");
